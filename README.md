@@ -147,6 +147,24 @@ Each day's folder contains the complete STM32CubeIDE project, source code, and s
 - Object Detection using OpenCV
 
 ---
+---
+
+# 👨‍💻 Author
+
+**Abhishek Mohammad**
+
+🎓 B.Tech in Electronics & Communication Engineering  
+National Institute of Technology (NIT) Jalandhar
+
+### Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin/
+- 💻 GitHub: https://github.com/abhishekxece
+- 📧 Email: abhishekm.ec.24@nitj.ac.in
+
+I enjoy building projects in **Embedded Systems, IoT, Robotics, AI, and Autonomous Systems**, and this repository is part of my continuous learning journey in automotive embedded systems.
+
+---
 
 # 📜 License
 
