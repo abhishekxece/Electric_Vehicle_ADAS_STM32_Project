@@ -28,7 +28,7 @@ Each day introduces a new automotive safety feature while strengthening concepts
 
 | Day | Module | Core Concepts | Status |
 |:---:|-------------------------------|----------------------------------------------|:---:|
-| 01 | LED Blink | GPIO Programming, Embedded Project Setup | ✅ |
+| 01 | LED  Blink | GPIO Programming, Embedded Project Setup | ✅ |
 | 02 | ADC Sensor Input | ADC, UART Communication, Analog Sensors | ✅ |
 | 03 | Ultrasonic Sensor Interface | HC-SR04, Timers, Distance Measurement | ✅ |
 | 04 | Collision Warning System | Obstacle Detection, Safety Alerts | ✅ |
