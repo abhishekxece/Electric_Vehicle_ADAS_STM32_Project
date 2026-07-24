@@ -162,7 +162,7 @@ National Institute of Technology (NIT) Jalandhar
 - 💻 GitHub: https://github.com/abhishekxece
 - 📧 Email: abhishekm.ec.24@nitj.ac.in
 
-I enjoy building projects in **Embedded Systems, IoT, Robotics, AI, and Autonomous Systems**, and this repository is part of my continuous learning journey in automotive embedded systems.
+I enjoy building projects in  **Embedded Systems, IoT, Robotics, AI, and Autonomous Systems**, and this repository is part of my continuous learning journey in automotive embedded systems.
 
 ---
 
