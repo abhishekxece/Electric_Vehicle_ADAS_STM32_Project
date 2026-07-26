@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Day7_BlindSpot_ADAS&apos; to &apos;Day8_Lane_change_ADAS&apos;" description="Rename resource &apos;Day7_BlindSpot_ADAS&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Day7_BlindSpot_ADAS" name="Day8_Lane_change_ADAS" stamp="1781077196715" updateReferences="true"/>
+</session>
