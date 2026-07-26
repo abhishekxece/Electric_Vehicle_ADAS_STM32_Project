@@ -35,8 +35,8 @@ Each day introduces a new automotive safety feature while strengthening concepts
 | 05 | Multi Sensor ADAS | Front, Left & Right Sensor Integration | ✅ |
 | 06 | Blind Spot Detection | Side Monitoring, LED Warning Logic | ✅ |
 | 07 | Lane Change Assist | Lane Safety, Collision Prevention | ✅ |
-| 08 | Adaptive Cruise Control | Safe Following Distance Logic | ⬜ |
-| 09 | Automatic Emergency Braking | Emergency Response Algorithm | ⬜ |
+| 08 | Adaptive Cruise Control | Safe Following Distance Logic | ✅ |
+| 09 | Automatic Emergency Braking | Emergency Response Algorithm | ✅ |
 | 10 | Reverse Parking Assist | Parking Assistance, Distance Alerts | ⬜ |
 | 11 | Driver Drowsiness Alert | Continuous Monitoring Logic | ⬜ |
 | 12 | Smart Parking System | Parking Guidance & UART Monitoring | ⬜ |
