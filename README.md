@@ -2,7 +2,7 @@
 
 # 🚗 EV ADAS STM32 Project
 
-### A 14-day embedded systems challenge — building Advanced Driver Assistance Systems with STM32 & Python Dashboard
+### A 14-day of embedded systems challenge — building Advanced Driver Assistance Systems with STM32 & Python Dashboard
 
 [![STM32](https://img.shields.io/badge/STM32-Blue%20Pill-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.st.com/)
 [![Python](https://img.shields.io/badge/Python-Dashboard-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
