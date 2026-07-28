@@ -7,7 +7,7 @@
 [![STM32](https://img.shields.io/badge/STM32-Blue%20Pill-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.st.com/)
 [![Python](https://img.shields.io/badge/Python-Dashboard-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 ![Progress](https://img.shields.io/badge/Progress-Day%2009%20%2F%2014-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-InProgres-brightgreen?style=for-the-badge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
 </div>
