@@ -6,7 +6,7 @@
 
 [![STM32](https://img.shields.io/badge/STM32-Blue%20Pill-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.st.com/)
 [![Python](https://img.shields.io/badge/Python-Dashboard-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-![Progress](https://img.shields.io/badge/Progress-Day%2009%20%2F%2014-blue?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-Day%2014%20%2F%2014-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
@@ -37,13 +37,13 @@ Each day introduces a new automotive safety feature while strengthening concepts
 | 07 | Lane Change Assist | Lane Safety, Collision Prevention | ✅ |
 | 08 | Adaptive Cruise Control | Safe Following Distance Logic | ✅ |
 | 09 | Automatic Emergency Braking | Emergency Response Algorithm | ✅ |
-| 10 | Reverse Parking Assist | Parking Assistance, Distance Alerts | ⬜ |
-| 11 | Driver Drowsiness Alert | Continuous Monitoring Logic | ⬜ |
-| 12 | Smart Parking System | Parking Guidance & UART Monitoring | ⬜ |
-| 13 | Advanced Emergency Braking | Multi-stage Braking Logic | ⬜ |
-| 14 | Python Live Dashboard | Real-time Visualization using Matplotlib | ⬜ |
+| 10 | Reverse Parking Assist | Parking Assistance, Distance Alerts | ✅ |
+| 11 | Driver Drowsiness Alert | Continuous Monitoring Logic | ✅ |
+| 12 | Smart Parking System | Parking Guidance & UART Monitoring | ✅ |
+| 13 | Advanced Emergency Braking | Multi-stage Braking Logic | ✅ |
+| 14 | Python Live Dashboard | Real-time Visualization using Matplotlib | ✅ |
 
-**Legend:** ⬜ Work in Process
+**Legend:** ✅ Complete 
 
 ---
 
